@@ -1,4 +1,4 @@
-# Key Show
+# Windows Keyboard Visualizer
 
 A simple Tkinter visualization of a keyboard with adaptive key heights and an optional headerless window.
 
